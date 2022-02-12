@@ -1,0 +1,14 @@
+Introdução
+
+	O que é a internet? 
+
+	R- Rede de conexões globais que permite o compartilhamento instantâneo de dados entre dispositivos.
+
+	O primeiro domínio registrado foi o symbolics.com, em 1985, por uma fabricante de computadores em Massachusetts, nos Estados Unidos. Nessa época, qualquer um poderia registrar um domínio gratuitamente.
+
+	O primeiro blog da internet foi criado por um brasileiro. Em 1994, o cientista do MIT Media Lab, Claudio Pinhanez, criou um site chamado “Open Diary”, o objetivo assim como o nome sugere,
+	tinha o intuito de contar a sua vida.
+
+	E o primeiro produto a ser vendido foi um CD do cantor Sting, em 11 de agosto de 1994. O comprador foi um homem chamado Phil Brandenberger, morador da Philadelphia.
+
+	Em 1º de janeiro de 1985, a NORDUnet, uma espécie de agência internacional que conecta as redes nacionais de pesquisa e de educação dos países nórdicos, criou o nordu.net. A entidade, sediada na Dinamarca, segue na ativa —e o site também. O primeiro "pontocom", por sua vez, foi o symbolics. com, de 15 de março de 1985.
